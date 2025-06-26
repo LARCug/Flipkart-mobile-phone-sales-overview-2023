@@ -48,8 +48,7 @@ KEY INSIGHTS
 
 -Price and Rating Relationship:
 
-1) Mobiles in the ₹30,000 – ₹50,000 range have significantly higher ratings (average 4.38), reflecting better customer satisfaction.
-
+1)Mobiles in the ₹30,000 – ₹50,000 range have significantly higher ratings (average 4.38), reflecting better customer satisfaction.
   
 2)Premium phones (>₹100,000) receive the best ratings (average 4.58), likely due to advanced features and quality. This means that the top rated mobile are quite expensive(they surpass the average mobile phone selling price)
 
